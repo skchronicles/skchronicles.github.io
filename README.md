@@ -9,5 +9,5 @@ to populate.
 
 Having trouble with Page? Feel free to send me a message or browse through the project's source files.
 
-Best,
+Best,  
 *Skyler A. Kuhn*
