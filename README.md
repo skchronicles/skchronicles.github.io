@@ -6,7 +6,7 @@ Whenever a commit is made to the master branch of this repository, GitHub Pages 
 to populate. 
 
 ## Adding HTTPS Support for Custom Domain Names
-[CloudFlare](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html) is used to enforce HTTPS and a few other page rules. Once a custom domain is added to a github page, encryption is removed. To add HTTPS support back to the website, a CDN like CloudFlare can be used. The last step is to change your DNS nameserver information to match CloudFlare's nameserver aliases. Once updated CloudFlare will act to enforce HTTPS protcol.     
+[CloudFlare](https://www.jonathan-petitcolas.com/2017/01/13/using-https-with-custom-domain-name-on-github-pages.html) is used to enforce HTTPS and a few other page rules. Once a custom domain is added to a github page, encryption is removed. To add HTTPS support back to the website, a CDN like CloudFlare can be used. To do so, change your DNS nameserver information to match CloudFlare's nameserver aliases. Once updated CloudFlare will act to enforce HTTPS protcol.     
 
 ### Support or Contact
 
